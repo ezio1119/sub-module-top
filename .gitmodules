@@ -1,0 +1,3 @@
+[submodule "sub1"]
+	path = sub1
+	url = https://github.com/ezio1119/sub-module-1
